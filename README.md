@@ -21,7 +21,7 @@ Model Selection: Choose an appropriate machine learning model for the classifica
 Model Optimization: Optimize the hyperparameters of the selected model using a suitable optimization algorithm, such as grid search, random search, or Bayesian optimization.
 
 Model Evaluation: Evaluate the performance of the optimized model on a held-out test dataset using the same performance metric used for model selection.
-## Screenshots
+## Generalized Logic Implementation
 
 <img width="386" alt="lalalala" src="https://user-images.githubusercontent.com/72307203/235549454-6caa96ba-6420-4c24-b38b-1024222c1d3e.png">
 
